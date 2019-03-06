@@ -11,9 +11,9 @@ The intent is for this to be a regular occurance that will allow people to drop 
 Using AWS Services, perform an ETL function that results in transformed data.
 
 **Resources**
-https://registry.opendata.aws/
-https://github.com/awslabs/open-data-registry/tree/master/datasets
-https://www.kaggle.com/
+- [AWS Open Data](https://registry.opendata.aws/)
+- [AWS Open Data GitHub](https://github.com/awslabs/open-data-registry/tree/master/datasets)
+- [Kaggle for Data Science](https://www.kaggle.com/)
 
 ### Next Steps
 - [ ]  Set a date
